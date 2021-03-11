@@ -22,7 +22,7 @@
                     <div class="col-md-6 col-sm-12 col-xs-12">
                     <div class="col-md-6 col-sm-6 col-xs-12">
                       <div class="footer-widget about-widget"><a class="logo" href="index.html"><img src="img/logo/logob.png" alt="Awesome Image"></a>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean malesuada fringilla sem, at dictum lectus ultricies quis. Etiam eu bibendum orci. Aliquam erat volutpat.</p>
+                       <p>Les Jardins de Ryad Bahia offers friendly accommodation not far from the medina. The guest house has a seasonal outdoor pool, barbecue and sun terrace</p>
                         <div class="link"><a href="{{ url('/about') }}">MORE ABOUT US</a> </div>
           
                       </div>
@@ -73,19 +73,19 @@
                           <div class="tel-box">
                             <div class="icon"><i class="fa fa-map-marker"></i></div>
                             <div class="text">
-                              <p>Apple St, New York, NY 10012, USA</p>
+                              <p>Riad Al Menzeh N28 Route d'Agouray - Meknes</p>
                             </div>
                           </div>
                           <div class="tel-box">
                             <div class="icon"><i class="fa fa-phone"></i></div>
                             <div class="text">
-                              <p>( 018) 65 524 8503  /  (125) 954 7854</p>
+                              <p>+212-662-082-864 <br> +212-661-815-237</p>
                             </div>
                           </div>
                           <div class="tel-box">
                             <div class="icon"><i class="fa fa-envelope"></i></div>
                             <div class="text">
-                              <p><a href="#">contact@lamarena.com</a></p>
+                              <p><a href="#">contact@ryad-bahia.com</a></p>
                             </div>
                           </div>
           

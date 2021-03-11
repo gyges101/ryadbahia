@@ -36,6 +36,10 @@
 /*----------------------------------------*/
 /*  1.  Theme default CSS
 /*----------------------------------------*/
+#about {
+    color: rgb(0, 0, 0);
+}
+
 html, body {
 	height: 100%;
 }
@@ -157,7 +161,7 @@ body {
   width: 34px;
 }
 #scrollUp:hover {
-    background: #8e8e8f;
+    background: #8f8e8e;
     opacity: 1;
 }
 .clear{
@@ -192,7 +196,7 @@ div#preloader {
 	width: 100%;
 	height: 100%;
 	overflow: visible;
-	background: #fff url('../img/logo/preloader.gif') no-repeat center center;
+	background: #fff url('../img/logo/infinity.gif') no-repeat center center;
 }
 .navbar-collapse {
     padding-left: 0px;
@@ -353,7 +357,7 @@ z-index: 0;
 /*  Header top section */
 
 .header {
-    background: #8e8e8f;
+    background: #57190e;
     line-height: 49px;
     position: relative;
     z-index: 9;
